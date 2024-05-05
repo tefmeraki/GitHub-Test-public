@@ -48,6 +48,8 @@ public class HolaMundo {
 	     hazCambios(c, d);
 	     System.out.println ("c: " + c);
 	     System.out.println ("d: " + d);
+	     
+	     System.out.println ("***********");
 	}
 	
 	private static void hazCambios (List<String> c, List<String> d) {
