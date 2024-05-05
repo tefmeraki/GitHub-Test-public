@@ -46,8 +46,8 @@ public class HolaMundo {
 	     List<String> d = new ArrayList(List.of("Hello", "World", "!"));
 	     
 	     hazCambios(c, d);
-	     // System.out.println ("c: " + c);
-	     // System.out.println ("d: " + d);
+	     System.out.println ("c: " + c);
+	     System.out.println ("d: " + d);
 	}
 	
 	private static void hazCambios (List<String> c, List<String> d) {
