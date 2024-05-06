@@ -5,14 +5,14 @@ import java.util.List;
 
 /* El programa imprime un mensaje 10 veces:
  * - Iteraciones impares: "Hola mundo"
- * - Iteraciones pares: "AdiÛs mundo"
+ * - Iteraciones pares: "Adi√≥s mundo"
  */
 
 public class HolaMundo {
 
 	public static void main(String[] args) {
 		final String HOLA = "Hola Mundo";
-		final String ADIOS = "AdiÛs Mundo";
+		final String ADIOS = "Adi√≥s Mundo";
 		
 		String imprime; 
 		
@@ -26,6 +26,6 @@ public class HolaMundo {
 			System.out.println (i + ": " + imprime);
 		}
 		
-		System.out.println("FIN de la ejecuciÛn.");
+		System.out.println(">>> FIN de la ejecuci√≥n.");
 	}
 }
