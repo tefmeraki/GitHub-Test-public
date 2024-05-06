@@ -26,6 +26,6 @@ public class HolaMundo {
 			System.out.println (i + ": " + imprime);
 		}
 		
-		System.out.println(">>> FIN");
+		//System.out.println(">>> FIN");
 	}
 }
